@@ -1,0 +1,18 @@
+box of matches
+For some reason it never seems to run out of matches.
+normal mushroom
+A normal mushroom that look very ordinary. \nIt doesn't have any smell to it.
+red mushroom
+This mushroom has a slight red shine to it. \nIt smells funny.
+blue mushrooms
+This mushroom has a slight blue shine to it. \nIt smells rather nice.
+yellow mushroom
+This mushroom has a slight yellow shine to it. \nIt smells old.
+broomstick
+It feel light and strong.Perfect for hitting something.
+blackened key
+It fell from the light. How'd it even get in there? It might open one of the locked doors.
+shard of glass
+It's a shard of glass from the light bulb.
+stick of dynamite
+It's a small stick of dynamite. It's to small to give a big bang, but it might do some damage to something that's already weakened.

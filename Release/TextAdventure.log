@@ -1,0 +1,34 @@
+﻿Build started 14-Aug-17 1:20:16 PM.
+     1>Project "C:\Users\thoma_000\Desktop\TextAdventure\TextAdventure.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Connection.cpp GameManager.cpp InputHandler.cpp Inventory.cpp main.cpp Monster.cpp RoomHandler.cpp TextHandler.cpp
+         Connection.cpp
+         GameManager.cpp
+     1>GameManager.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+         InputHandler.cpp
+         Inventory.cpp
+         main.cpp
+         Monster.cpp
+         RoomHandler.cpp
+         TextHandler.cpp
+     1>TextHandler.cpp(89): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+     1>TextHandler.cpp(156): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+     1>TextHandler.cpp(165): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\thoma_000\Desktop\TextAdventure\Release\TextAdventure.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\thoma_000\Desktop\TextAdventure\Release\TextAdventure.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\thoma_000\Desktop\TextAdventure\Release\TextAdventure.lib" /MACHINE:X86 /SAFESEH Release\Connection.obj
+         Release\GameManager.obj
+         Release\InputHandler.obj
+         Release\Inventory.obj
+         Release\main.obj
+         Release\Monster.obj
+         Release\RoomHandler.obj
+         Release\TextHandler.obj
+         Generating code
+         All 1511 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Finished generating code
+         TextAdventure.vcxproj -> C:\Users\thoma_000\Desktop\TextAdventure\Release\TextAdventure.exe
+     1>Done Building Project "C:\Users\thoma_000\Desktop\TextAdventure\TextAdventure.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.46
